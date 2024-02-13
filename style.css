@@ -1,0 +1,42 @@
+.box1>img{
+    width: 200px;
+    height: 70px;
+    background-color: rgb(10, 83, 59);
+    margin: 5px;
+}
+.main{
+    background-color: rgb(48, 77, 241);
+    
+    position: relative;
+   
+  
+    
+}
+.box2{
+   
+ 
+    color: rgb(5, 2, 2);
+    position: absolute;
+    right: 20px;
+    top: 20px;
+    color: white;
+    font-size: large;
+ 
+    
+}
+li{
+    display:inline-block;
+    margin-left: 15px;
+}
+li:hover{
+ color: rgb(54, 54, 54); 
+ cursor: pointer;
+transform: scale(1.25); 
+ transition: 3s;
+
+}
+.content
+{
+    margin-top: 30px;
+    text-align: justify;
+}
